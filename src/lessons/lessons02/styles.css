@@ -1,0 +1,7 @@
+.lessons02-component {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    color: #000;
+    background-color: aqua;
+  }
